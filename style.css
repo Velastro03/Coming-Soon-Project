@@ -1,0 +1,138 @@
+body{
+    background-color: aqua;
+}
+
+.squaremain{
+    height: 798px;
+    width: 1100px;
+    background-color: white;
+    position: relative;
+    left: 200px;
+    box-shadow: 5px 10px grey;
+}
+
+.smallsquare{
+    height: 47px;
+    width: 227px;
+    background-color: #F37758;
+    position: relative;
+    left: 1200px;
+    bottom: 100px;
+}
+
+h1{
+    height: 268px;
+    width: 982px;
+    color: #D1D2D4;
+    transform: rotate(-90deg);
+    position: relative;
+    bottom: 750px;
+    font-size: 85px;
+    font-family: Secular One;
+    left: -100px;
+}
+
+.image{
+    height: 249px;
+    width: 317px;
+    position: relative;
+    bottom: 1000px;
+    left: 550px;
+}
+
+.squarecircle{
+    height: 34px;
+    width: 279px;
+    background-color: #F37758;
+    border-radius: 32px;
+    position: relative;
+    bottom: 900px;
+    left: 600px;
+    box-shadow: 1px 1px 5px 3px grey;
+}
+
+.squareline{
+    height: 12px;
+    width: 463px;
+    background-color: #A7A9AC;
+    position: relative;
+    bottom: 1000px;
+    left: 500px;
+    border-radius: 93px;
+}
+
+h4{
+    height: 83px;
+    width: 139px;
+    color: #58585A;
+    font-family: Ubuntu;
+    font-size: 22px;
+    font-weight: bold;
+    position: relative;
+    bottom: 1480px;
+    left: 1150px;
+}
+
+.second{
+    height: 83px;
+    width: 139px;
+    color: #A7A9AC;
+    font-family: Ubuntu;
+    font-size: 22px;
+    font-weight: bold;
+    position: relative;
+    bottom: 1590px;
+    left: 1255px;
+}
+
+.contactus{
+    height: 24px;
+    width: 161px;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: lighter;
+    color: #818285;
+    position: relative;
+    bottom: 1020px;
+    left: 600px;
+}
+
+.privacy{
+    height: 24px;
+    width: 161px;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: lighter;
+    color: #818285;
+    position: relative;
+    bottom: 1065px;
+    left: 800px;
+}
+
+.inter{
+    height: 49px;
+    width: 862px;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: bold;
+    color: #F37758;
+    position: relative;
+    left: 600px;
+    bottom: 1400px;
+}
+
+.redbutton{
+    height: 148px;
+    width: 856px;
+    font-family: Secular One;
+    font-size: 16px;
+    color: white;
+    position: relative;
+    left: 659px;
+    bottom: 1360px;
+}
+
+.icon{
+    font-size: 36px;
+    color: green;
+}
